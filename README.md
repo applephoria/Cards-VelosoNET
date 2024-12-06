@@ -8,7 +8,7 @@ meu intuido aqui é mostrar parte do projeto para fins didáticos/acadêmicos e 
 <!-- ### ### Experimente agora o meu projeto 👉 [Clicando aqui](https://applephoria.github.io/Cards-VelosoNET/) -->
 
 ## 📷 Imagem
-![Print](./Imagens/Cards.png)
+![Print](https://github.com/applephoria/Cards-VelosoNET/blob/main/imagens/Cards.png)
 
 
 ## 🖌️ Paleta de cores
